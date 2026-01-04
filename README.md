@@ -126,6 +126,3 @@ A full-stack blogging platform built with the MERN stack (MongoDB, Express.js, R
 
 ⭐ **Star this repo** if you find it helpful!
 
----
-
-⭐ **Star this repo** if you find it helpful!
